@@ -1,0 +1,19 @@
+# dependencies and build output
+node_modules/
+dist*/
+*.tsbuildinfo
+
+# local connection values (only .env.example is tracked)
+.env
+.env.*
+!.env.example
+*.local
+
+# local-only: fixture snapshot, deploy target and Vercel link
+.fixtures/
+.vercel
+scripts/deploy-targets.json
+
+# private deny list of tools/public_gate.py (never tracked)
+tools/public_gate.denylist
+__pycache__/

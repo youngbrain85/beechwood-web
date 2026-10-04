@@ -1,0 +1,19 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`runEngine > golden: candidate compositions of three model selections 1`] = `
+{
+  "bw_beam_b2": [
+    "development:4:A3:100",
+    "single:1:A3:100",
+  ],
+  "bw_col_b2_1": [
+    "cylinder:4:A3:50",
+    "three_view:3:A3:60",
+    "single:1:A3:50",
+  ],
+  "bw_deck_b": [
+    "development:3:A1:150",
+    "single:1:A1:150",
+  ],
+}
+`;

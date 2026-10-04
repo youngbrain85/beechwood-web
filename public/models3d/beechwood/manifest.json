@@ -1,0 +1,494 @@
+{
+ "version": "v1",
+ "units": "m",
+ "frame": "x=transverse(+right), y=(EL-400ft), z=(STA-106+21)",
+ "groups": [
+  {
+   "group": "BEECHWOOD",
+   "file": "BEECHWOOD.glb",
+   "sizeKB": 81,
+   "objects": [
+    {
+     "id": "BW_APPR_N",
+     "name": "Approach Slab – North",
+     "el": "EL 419.09 ~ 421.10 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_APPR_S",
+     "name": "Approach Slab – South",
+     "el": "EL 430.74 ~ 432.75 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_A1",
+     "name": "Beam – Span A, Line 1",
+     "el": "EL 424.42 ~ 430.85 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_A2",
+     "name": "Beam – Span A, Line 2",
+     "el": "EL 424.60 ~ 431.02 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_A3",
+     "name": "Beam – Span A, Line 3",
+     "el": "EL 424.60 ~ 431.02 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_A4",
+     "name": "Beam – Span A, Line 4",
+     "el": "EL 424.42 ~ 430.85 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_B1",
+     "name": "Beam – Span B, Line 1",
+     "el": "EL 420.58 ~ 427.40 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_B2",
+     "name": "Beam – Span B, Line 2",
+     "el": "EL 420.76 ~ 427.58 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_B3",
+     "name": "Beam – Span B, Line 3",
+     "el": "EL 420.76 ~ 427.58 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_B4",
+     "name": "Beam – Span B, Line 4",
+     "el": "EL 420.58 ~ 427.40 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_C1",
+     "name": "Beam – Span C, Line 1",
+     "el": "EL 417.13 ~ 423.56 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_C2",
+     "name": "Beam – Span C, Line 2",
+     "el": "EL 417.31 ~ 423.73 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_C3",
+     "name": "Beam – Span C, Line 3",
+     "el": "EL 417.31 ~ 423.73 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BEAM_C4",
+     "name": "Beam – Span C, Line 4",
+     "el": "EL 417.13 ~ 423.56 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_1N",
+     "name": "Bearing – Bent 2, Line 1 North",
+     "el": "EL 423.90 ~ 424.41 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_1S",
+     "name": "Bearing – Bent 2, Line 1 South",
+     "el": "EL 423.90 ~ 424.49 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_2N",
+     "name": "Bearing – Bent 2, Line 2 North",
+     "el": "EL 423.90 ~ 424.58 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_2S",
+     "name": "Bearing – Bent 2, Line 2 South",
+     "el": "EL 423.90 ~ 424.67 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_3N",
+     "name": "Bearing – Bent 2, Line 3 North",
+     "el": "EL 423.90 ~ 424.58 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_3S",
+     "name": "Bearing – Bent 2, Line 3 South",
+     "el": "EL 423.90 ~ 424.67 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_4N",
+     "name": "Bearing – Bent 2, Line 4 North",
+     "el": "EL 423.90 ~ 424.41 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B2_4S",
+     "name": "Bearing – Bent 2, Line 4 South",
+     "el": "EL 423.90 ~ 424.49 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_1N",
+     "name": "Bearing – Bent 3, Line 1 North",
+     "el": "EL 420.02 ~ 420.57 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_1S",
+     "name": "Bearing – Bent 3, Line 1 South",
+     "el": "EL 420.02 ~ 420.65 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_2N",
+     "name": "Bearing – Bent 3, Line 2 North",
+     "el": "EL 420.02 ~ 420.74 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_2S",
+     "name": "Bearing – Bent 3, Line 2 South",
+     "el": "EL 420.02 ~ 420.83 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_3N",
+     "name": "Bearing – Bent 3, Line 3 North",
+     "el": "EL 420.02 ~ 420.74 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_3S",
+     "name": "Bearing – Bent 3, Line 3 South",
+     "el": "EL 420.02 ~ 420.83 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_4N",
+     "name": "Bearing – Bent 3, Line 4 North",
+     "el": "EL 420.02 ~ 420.57 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_B3_4S",
+     "name": "Bearing – Bent 3, Line 4 South",
+     "el": "EL 420.02 ~ 420.65 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB1_1",
+     "name": "Bearing – End Bent 1, Line 1",
+     "el": "EL 427.32 ~ 427.87 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB1_2",
+     "name": "Bearing – End Bent 1, Line 2",
+     "el": "EL 427.51 ~ 428.04 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB1_3",
+     "name": "Bearing – End Bent 1, Line 3",
+     "el": "EL 427.51 ~ 428.04 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB1_4",
+     "name": "Bearing – End Bent 1, Line 4",
+     "el": "EL 427.32 ~ 427.87 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB4_1",
+     "name": "Bearing – End Bent 4, Line 1",
+     "el": "EL 416.62 ~ 417.19 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB4_2",
+     "name": "Bearing – End Bent 4, Line 2",
+     "el": "EL 416.81 ~ 417.37 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB4_3",
+     "name": "Bearing – End Bent 4, Line 3",
+     "el": "EL 416.81 ~ 417.37 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_BRG_EB4_4",
+     "name": "Bearing – End Bent 4, Line 4",
+     "el": "EL 416.62 ~ 417.19 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_CAP_B2",
+     "name": "Pier Cap – Bent 2",
+     "el": "EL 419.42 ~ 423.92 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_CAP_B3",
+     "name": "Pier Cap – Bent 3",
+     "el": "EL 415.54 ~ 420.04 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_COL_B2_1",
+     "name": "Column – Bent 2, No. 1 (West)",
+     "el": "EL 390.00 ~ 419.44 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_COL_B2_2",
+     "name": "Column – Bent 2, No. 2 (East)",
+     "el": "EL 390.00 ~ 419.44 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_COL_B3_1",
+     "name": "Column – Bent 3, No. 1 (West)",
+     "el": "EL 390.00 ~ 415.56 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_COL_B3_2",
+     "name": "Column – Bent 3, No. 2 (East)",
+     "el": "EL 390.00 ~ 415.56 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_DECK_A",
+     "name": "Deck – Span A",
+     "el": "EL 427.41 ~ 431.86 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_DECK_B",
+     "name": "Deck – Span B",
+     "el": "EL 423.56 ~ 428.40 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_DECK_C",
+     "name": "Deck – Span C",
+     "el": "EL 420.11 ~ 424.56 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_DIA_B2",
+     "name": "Pier Diaphragm – Bent 2",
+     "el": "EL 423.78 ~ 427.82 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_DIA_B3",
+     "name": "Pier Diaphragm – Bent 3",
+     "el": "EL 419.90 ~ 423.97 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_EB1_CAP",
+     "name": "Integral End Bent Cap – End Bent 1",
+     "el": "EL 424.34 ~ 431.23 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_EB1_WING_A",
+     "name": "Wing Wall A – End Bent 1 (qty counted in cap)",
+     "el": "EL 424.34 ~ 431.94 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_EB1_WING_B",
+     "name": "Wing Wall B – End Bent 1 (qty counted in cap)",
+     "el": "EL 424.34 ~ 431.94 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_EB4_CAP",
+     "name": "Integral End Bent Cap – End Bent 4",
+     "el": "EL 413.64 ~ 420.56 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_EB4_WING_C",
+     "name": "Wing Wall C – End Bent 4 (qty counted in cap)",
+     "el": "EL 413.64 ~ 420.92 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_EB4_WING_D",
+     "name": "Wing Wall D – End Bent 4 (qty counted in cap)",
+     "el": "EL 413.64 ~ 420.92 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_JT_N",
+     "name": "Deck Joint – North (Type I-A)",
+     "el": "EL 420.10 ~ 421.10 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_JT_S",
+     "name": "Deck Joint – South (Type I-A)",
+     "el": "EL 430.87 ~ 431.87 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB1_1",
+     "name": "H-pile (stub) – End Bent 1, No. 1",
+     "el": "EL 421.34 ~ 424.36 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB1_2",
+     "name": "H-pile (stub) – End Bent 1, No. 2",
+     "el": "EL 421.34 ~ 424.36 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB1_3",
+     "name": "H-pile (stub) – End Bent 1, No. 3",
+     "el": "EL 421.34 ~ 424.36 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB1_4",
+     "name": "H-pile (stub) – End Bent 1, No. 4",
+     "el": "EL 421.34 ~ 424.36 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB1_5",
+     "name": "H-pile (stub) – End Bent 1, No. 5",
+     "el": "EL 421.34 ~ 424.36 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB1_6",
+     "name": "H-pile (stub) – End Bent 1, No. 6",
+     "el": "EL 421.34 ~ 424.36 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB4_1",
+     "name": "H-pile (stub) – End Bent 4, No. 1",
+     "el": "EL 410.64 ~ 413.66 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB4_2",
+     "name": "H-pile (stub) – End Bent 4, No. 2",
+     "el": "EL 410.64 ~ 413.66 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB4_3",
+     "name": "H-pile (stub) – End Bent 4, No. 3",
+     "el": "EL 410.64 ~ 413.66 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB4_4",
+     "name": "H-pile (stub) – End Bent 4, No. 4",
+     "el": "EL 410.64 ~ 413.66 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB4_5",
+     "name": "H-pile (stub) – End Bent 4, No. 5",
+     "el": "EL 410.64 ~ 413.66 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_PILE_EB4_6",
+     "name": "H-pile (stub) – End Bent 4, No. 6",
+     "el": "EL 410.64 ~ 413.66 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_RAIL_L",
+     "name": "Bridge Railing – Left (West)",
+     "el": "EL 420.77 ~ 434.28 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_RAIL_R",
+     "name": "Bridge Railing – Right (East)",
+     "el": "EL 420.77 ~ 434.28 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_SHAFT_B2_1",
+     "name": "Drilled shaft (stub) – Bent 2, No. 1 (West)",
+     "el": "EL 387.00 ~ 390.00 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_SHAFT_B2_2",
+     "name": "Drilled shaft (stub) – Bent 2, No. 2 (East)",
+     "el": "EL 387.00 ~ 390.00 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_SHAFT_B3_1",
+     "name": "Drilled shaft (stub) – Bent 3, No. 1 (West)",
+     "el": "EL 387.00 ~ 390.00 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_SHAFT_B3_2",
+     "name": "Drilled shaft (stub) – Bent 3, No. 2 (East)",
+     "el": "EL 387.00 ~ 390.00 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_WALL_B2",
+     "name": "Debris Wall – Bent 2",
+     "el": "EL 390.00 ~ 413.13 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_WALL_B3",
+     "name": "Debris Wall – Bent 3",
+     "el": "EL 390.00 ~ 413.13 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_XF_A",
+     "name": "Steel Cross-frame – Span A (mid-span)",
+     "el": "EL 427.10 ~ 428.69 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_XF_B",
+     "name": "Steel Cross-frame – Span B (mid-span)",
+     "el": "EL 423.47 ~ 425.06 ft",
+     "file": "BEECHWOOD.glb"
+    },
+    {
+     "id": "BW_XF_C",
+     "name": "Steel Cross-frame – Span C (mid-span)",
+     "el": "EL 419.84 ~ 421.43 ft",
+     "file": "BEECHWOOD.glb"
+    }
+   ]
+  }
+ ]
+}

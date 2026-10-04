@@ -1,0 +1,32 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background: var(--mantine-color-gray-0);
+}
+
+/* Sheet proposals: fit the composed sheet SVG (emitted at paper size in mm) to the column width. The viewBox is untouched. */
+.sheet-svg > svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Large preview: the whole sheet fits inside the cell. The default preserveAspectRatio (meet)
+   fits the tighter of width and height and centers the sheet. */
+.sheet-fit > svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* tabular numerals, for aligning tables and figures */
+.tnum {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum';
+}

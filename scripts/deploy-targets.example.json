@@ -1,0 +1,7 @@
+{
+  "_note": "Example of the local deploy target. Copy to scripts/deploy-targets.json (git-ignored) and fill in the values of your own Vercel project: projectId and orgId come from the .vercel/project.json that `npx vercel link` writes. scripts/deploy.mjs reads that file and refuses to deploy while it is missing or incomplete.",
+  "projectName": "beechwood-web",
+  "projectId": "",
+  "orgId": "",
+  "url": ""
+}
